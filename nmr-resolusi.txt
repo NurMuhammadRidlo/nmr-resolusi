@@ -1,0 +1,4 @@
+nmr resolusi
+-mskptn
+-belajarpython
+-owneranolshop
